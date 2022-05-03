@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsusersApplication<msusers>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "tup.msusers.MsusersApplication",
+            "projectName": "msusers",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
